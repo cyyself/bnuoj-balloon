@@ -1,0 +1,11 @@
+curl 'http://acm.cqu.edu.cn/contest_standing.php?randomid=0.3369341558720518&passtime=undefined&cid_315=on&shownum=100&cid=315' \
+  -H 'Connection: keep-alive' \
+  -H 'Cache-Control: max-age=0' \
+  -H 'DNT: 1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8' \
+  -H 'Cookie: bnuoj_v3_username=yangyuchen; bnuoj_v3_password=; bnuoj_v3_cstandset_yangyuchen_315=cid_315%3Don%26shownum%3D100%26cid%3D315; bnuoj_v3_cstandset_yangyuchen_305=cid_305%3Don%26shownum%3D100%26cid%3D305' \
+  --compressed \
+  --insecure
